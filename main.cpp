@@ -10,4 +10,6 @@ int main()
     int c;
     c = a + b;
     cout << "a+b=" << endl;
+    c = a - b;
+    cout << "a-b=" << endl;
 }
