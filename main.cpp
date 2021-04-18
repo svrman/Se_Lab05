@@ -13,6 +13,11 @@ int main()
     cout << "a+b=" << endl;
     c = a - b;
     cout << "a-b=" << endl;
+
     c = a * b;
     cout << "a*b=" << endl;
+
+     c = a / b;
+    cout << "a/b=" << endl;
+
 }
