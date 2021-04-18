@@ -1,3 +1,4 @@
+/*  This programm is for studying*/
 #include <iostream>
 
 using namespace std;
